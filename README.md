@@ -1,2 +1,2 @@
 # Movie-Almanac
-I am trying to make a Movie Almanac for my personal use trying ,learning and using every concepts i am learning.
+I am trying to make a Movie Almanac for my personal use Learning API calling and basic things
